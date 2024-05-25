@@ -29,6 +29,6 @@ Decidimos esta temática aprovechando la experiencia y los problemas que atravie
 
 ### 🔍 Identificación de Problemas y Oportunidades
 
-- **Problemas actuales y necesidad de mejora en esta temátic.**
+- **Ubicamos que es un problemas actual palpable en instituciones educativas que conocemos y una necesidad de mejora**
 - **Oportunidad de mejora de la sociedad** al poder validar esta solución en nuestra comunidad.
 - **Oportunidad de negocio**, brindando la opción desarrollada a instituciones educativas privadas de diferentes disciplinas.
