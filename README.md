@@ -1,9 +1,23 @@
-# Evidencia-2
-Actividades de evidencia 2 de ISPC
+# Evidencia 2 - Módulo Programador - TSCDIA - 2024
 
-# 📚 Sistema de Transparencia Educativa
 
-## 📝 Descripción de la Propuesta de Proyecto
+## 👥 Integrantes del Grupo 15
+
+| Nombre | Apellido | DNI | E-mail            | Link |
+|--------|----------|-----|-------------------|------|
+| Mónica Alejandra| Dominguez | 20941009 | mdominguez.conservatorio@gmail.com | https://github.com/Mdominguez1969 |
+| Valeria Nieves | Villalba | 26970862 | vnvillalba@escuelasproa.edu.ar | https://github.com/Nieves862  |
+| Leandro | Sanchez | 38503454 | leandrosanchez.net@gmail.com | https://github.com/LeandroSanchez94 |
+| Gabriel | Vargas Salas | 32204604 | gabrielvargasds25@gmail.com | https://github.com/GabrielVargasds |
+| Sabrina Ximena | Rivadera | 1111111 | srivadera@gmail.com| https://github.com/SabriRivadera |
+| Andra Paola | Testa | 11111111 | andreaptesta@gmail.com | https://github.com/PaoTes |
+
+
+# Introducción a la Programación
+
+## 📚 Proyecto: Sistema de Transparencia Educativa
+
+## 📝 Descripción:
 
 La propuesta elegida es un sistema de transparencia educativa, que beneficie a **alumnos, padres y madres, maestros/as** y a la **dirección de instituciones educativas**, facilitando la calificación de diferentes aspectos de alumnos hacia docentes y viceversa. Este sistema permite conocer las notas de los hijos/as de forma sencilla y a las instituciones conseguir un panorama general de la calidad educativa.
 
